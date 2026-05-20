@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "meta/cms-starter",
+    "name": "sirserik/cms-starter",
     "type": "project",
     "description": "Laravel + meta/admin-core + meta/starter-theme skeleton. Ready CMS in one composer create-project.",
     "keywords": ["laravel", "cms", "admin", "headless", "starter"],
@@ -23,8 +23,8 @@
         "inertiajs/inertia-laravel": "^3.0",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
-        "meta/admin-core": "^1.0|@dev",
-        "meta/starter-theme": "^0.1|@dev",
+        "sirserik/admin-core": "^1.0|@dev",
+        "sirserik/starter-theme": "^0.1|@dev",
         "spatie/laravel-permission": "^6.21",
         "spatie/laravel-sluggable": "^3.7",
         "spatie/laravel-translatable": "^6.13"
